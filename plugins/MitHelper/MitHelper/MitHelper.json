@@ -1,0 +1,19 @@
+{
+  "Author": "YoyoYoestar",
+  "Name": "Mit Helper",
+  "InternalName": "MitHelper",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Shows mit sheets for several duties, Sheet maker/Editor WIP",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Utility",
+    "plugin"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "For those sick and tired of having too many tabs open.",
+  "AcceptsFeedback": true
+}
